@@ -1,0 +1,5 @@
+bin/
+.env
+.idea/
+.vscode/
+coverage.out
